@@ -1,0 +1,8 @@
+# Ignore build artifacts
+*.exe
+*.out
+*.o
+
+# Ignore generated files
+examples/output.txt
+examples/*.huff
